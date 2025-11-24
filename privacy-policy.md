@@ -2,7 +2,7 @@
 
     Privacy Policy for Paris Travel Expert GPT
 
-    We do not collect, store, or share any personal information from users of this Custom GPT Action. When you interact with this GPT, your queries are sent to our server (hosted at [your domain]) purely for the purpose of generating travel recommendations for Paris.
+    We do not collect, store, or share any personal information from users of this Custom GPT Action. When you interact with this GPT, your queries are sent to our server purely for the purpose of generating travel recommendations for Paris.
 
         No User Data Retention: We do not keep logs or records of your queries or personal information.
 
